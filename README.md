@@ -1,5 +1,5 @@
 # Dragon_Breath_IoT_2023
-This is Project FPT IoT Challenge 2023;
+This is Project FPT IoT Challenge 2023.
 Mục tiêu thực hiện đề tài:
 - Thiết kế thiết bị và thu thập dữ liệu từ cảm biến.
 - Triển khai nhúng thuật toán trên vi điều khiển.
