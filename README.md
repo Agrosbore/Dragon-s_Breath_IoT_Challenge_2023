@@ -4,7 +4,5 @@ Tên đề tài: Ứng dụng giám sát nhịp thở từ xa trên thiết bị
 Mục tiêu thực hiện đề tài:
 - Thiết kế thiết bị và thu thập dữ liệu từ cảm biến.
 - Triển khai nhúng thuật toán trên vi điều khiển.
-- Đưa kết quả xử lý lên Cloud.
-- Xây dựng hệ thống cơ sở dữ liệu dành cho chuyên gia.
 - Xây dựng ứng dụng trên điện thoại di động.
 - Dựa vào kết quả, hệ thống phát hiện vấn đề sức khỏe và cảnh báo.
