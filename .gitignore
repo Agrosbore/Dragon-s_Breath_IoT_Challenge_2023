@@ -1,0 +1,12 @@
+mobile/~
+mobile/Builds
+libraries/materialdesign/Builds
+libraries/materialdesign/~
+wear/~
+wear/Builds
+Builds
+.gradle
+.idea/
+*.iml
+/local.properties
+*.DS_Store
